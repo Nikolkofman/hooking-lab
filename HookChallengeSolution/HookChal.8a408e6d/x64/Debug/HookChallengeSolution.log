@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+detoursx64.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detoursx64.lib(detours.obj)' or at 'C:\Users\nikol\source\repos\HookChallengeSolution\x64\Debug\detours.pdb'; linking object as if no debug info
+detoursx64.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detoursx64.lib(disasm.obj)' or at 'C:\Users\nikol\source\repos\HookChallengeSolution\x64\Debug\detours.pdb'; linking object as if no debug info
+detoursx64.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detoursx64.lib(modules.obj)' or at 'C:\Users\nikol\source\repos\HookChallengeSolution\x64\Debug\detours.pdb'; linking object as if no debug info
+  HookChallengeSolution.vcxproj -> C:\Users\nikol\source\repos\HookChallengeSolution\x64\Debug\HookChallengeSolution.dll

@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\elire\Downloads\CustomTrampoline\CustomTrampoline\CustomTrampoline\main.c(58,44): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\elire\Downloads\CustomTrampoline\CustomTrampoline\CustomTrampoline\main.c(104,44): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\elire\Downloads\CustomTrampoline\CustomTrampoline\CustomTrampoline\main.c(122,24): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\elire\Downloads\CustomTrampoline\CustomTrampoline\CustomTrampoline\main.c(107,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  CustomTrampoline.vcxproj -> C:\Users\elire\Downloads\CustomTrampoline\CustomTrampoline\x64\Debug\CustomTrampoline.exe

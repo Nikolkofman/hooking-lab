@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\elire\Downloads\DetoursLibHooking\DetoursHooking\DetoursHooking\main.c(44,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\elire\Downloads\DetoursLibHooking\DetoursHooking\DetoursHooking\main.c(73,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+detoursx64.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detoursx64.lib(detours.obj)' or at 'C:\Users\elire\Downloads\DetoursLibHooking\DetoursHooking\x64\Release\detours.pdb'; linking object as if no debug info
+detoursx64.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detoursx64.lib(disasm.obj)' or at 'C:\Users\elire\Downloads\DetoursLibHooking\DetoursHooking\x64\Release\detours.pdb'; linking object as if no debug info
+detoursx64.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detoursx64.lib(modules.obj)' or at 'C:\Users\elire\Downloads\DetoursLibHooking\DetoursHooking\x64\Release\detours.pdb'; linking object as if no debug info
+  DetoursHooking.vcxproj -> C:\Users\elire\Downloads\DetoursLibHooking\DetoursHooking\x64\Release\DetoursHooking.exe
