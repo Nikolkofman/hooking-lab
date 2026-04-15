@@ -1,0 +1,7 @@
+C:\Users\nikol\source\repos\ArgusAgent\event_queue.c;C:\Users\nikol\source\repos\ArgusAgent\ArgusAgent\x64\Debug\event_queue.obj
+C:\Users\nikol\source\repos\ArgusAgent\ipc_client.c;C:\Users\nikol\source\repos\ArgusAgent\ArgusAgent\x64\Debug\ipc_client.obj
+C:\Users\nikol\source\repos\ArgusAgent\ipc_server.c;C:\Users\nikol\source\repos\ArgusAgent\ArgusAgent\x64\Debug\ipc_server.obj
+C:\Users\nikol\source\repos\ArgusAgent\main.c;C:\Users\nikol\source\repos\ArgusAgent\ArgusAgent\x64\Debug\main.obj
+C:\Users\nikol\source\repos\ArgusAgent\pesieve_scanner.cpp;C:\Users\nikol\source\repos\ArgusAgent\ArgusAgent\x64\Debug\pesieve_scanner.obj
+C:\Users\nikol\source\repos\ArgusAgent\scanner.c;C:\Users\nikol\source\repos\ArgusAgent\ArgusAgent\x64\Debug\scanner.obj
+C:\Users\nikol\source\repos\ArgusAgent\yara_scanner.c;C:\Users\nikol\source\repos\ArgusAgent\ArgusAgent\x64\Debug\yara_scanner.obj

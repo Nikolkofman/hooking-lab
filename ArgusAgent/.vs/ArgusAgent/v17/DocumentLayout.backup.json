@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\test_ipc_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:test_ipc_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:ipc_client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:ipc_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:ipc_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\event_queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:event_queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\event_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:event_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\drain_thread_demo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:drain_thread_demo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pipe_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:pipe_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pipe_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:pipe_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\scanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:scanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\test_eq_standalone.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:test_eq_standalone.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\yara_scanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:yara_scanner.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\yara_scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:yara_scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pesieve_scanner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:pesieve_scanner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pesieve_scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:pesieve_scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C103EF2-91DB-491F-9125-A100713F3A9C}|ArgusAgent.vcxproj|solutionrelative:ipc_server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_ipc_client.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\test_ipc_client.c",
+              "RelativeDocumentMoniker": "test_ipc_client.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\test_ipc_client.c",
+              "RelativeToolTip": "test_ipc_client.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-15T16:03:47.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "drain_thread_demo.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\drain_thread_demo.c",
+              "RelativeDocumentMoniker": "drain_thread_demo.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\drain_thread_demo.c",
+              "RelativeToolTip": "drain_thread_demo.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-15T12:37:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pipe_client.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pipe_client.c",
+              "RelativeDocumentMoniker": "pipe_client.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pipe_client.c",
+              "RelativeToolTip": "pipe_client.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-15T12:29:19.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pipe_server.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pipe_server.c",
+              "RelativeDocumentMoniker": "pipe_server.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pipe_server.c",
+              "RelativeToolTip": "pipe_server.c",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-15T12:08:31.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "test_eq_standalone.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\test_eq_standalone.c",
+              "RelativeDocumentMoniker": "test_eq_standalone.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\test_eq_standalone.c",
+              "RelativeToolTip": "test_eq_standalone.c",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-15T11:35:34.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "scanner.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\scanner.c",
+              "RelativeDocumentMoniker": "scanner.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\scanner.c",
+              "RelativeToolTip": "scanner.c",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T17:28:53.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "yara_scanner.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\yara_scanner.c",
+              "RelativeDocumentMoniker": "yara_scanner.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\yara_scanner.c",
+              "RelativeToolTip": "yara_scanner.c",
+              "ViewState": "AgIAAKoAAAAAAAAAAIApwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T17:24:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ipc_server.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_server.c",
+              "RelativeDocumentMoniker": "ipc_server.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_server.c",
+              "RelativeToolTip": "ipc_server.c",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T17:23:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ipc_client.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_client.c",
+              "RelativeDocumentMoniker": "ipc_client.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_client.c",
+              "RelativeToolTip": "ipc_client.c",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T17:21:06.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "event_queue.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\event_queue.c",
+              "RelativeDocumentMoniker": "event_queue.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\event_queue.c",
+              "RelativeToolTip": "event_queue.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T17:17:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAD8vyoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T17:01:34.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "scanner.h",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\scanner.h",
+              "RelativeDocumentMoniker": "scanner.h",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\scanner.h",
+              "RelativeToolTip": "scanner.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T17:01:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "pesieve_scanner.h",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pesieve_scanner.h",
+              "RelativeDocumentMoniker": "pesieve_scanner.h",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pesieve_scanner.h",
+              "RelativeToolTip": "pesieve_scanner.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T17:01:07.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "pesieve_scanner.cpp",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pesieve_scanner.cpp",
+              "RelativeDocumentMoniker": "pesieve_scanner.cpp",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\pesieve_scanner.cpp",
+              "RelativeToolTip": "pesieve_scanner.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T17:00:58.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "yara_scanner.h",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\yara_scanner.h",
+              "RelativeDocumentMoniker": "yara_scanner.h",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\yara_scanner.h",
+              "RelativeToolTip": "yara_scanner.h",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T17:00:44.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ipc_server.h",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_server.h",
+              "RelativeDocumentMoniker": "ipc_server.h",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_server.h",
+              "RelativeToolTip": "ipc_server.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T17:00:11.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ipc_client.h",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_client.h",
+              "RelativeDocumentMoniker": "ipc_client.h",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\ipc_client.h",
+              "RelativeToolTip": "ipc_client.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T16:59:45.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "event_queue.h",
+              "DocumentMoniker": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\event_queue.h",
+              "RelativeDocumentMoniker": "event_queue.h",
+              "ToolTip": "C:\\Users\\nikol\\source\\repos\\ArgusAgent\\event_queue.h",
+              "RelativeToolTip": "event_queue.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-16T16:59:17.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

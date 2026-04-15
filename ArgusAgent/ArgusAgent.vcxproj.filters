@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{95c925ed-01da-4030-abc6-7432fbed34ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{8ae38ba6-115f-49a6-b29d-c11bc2e932a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="deps">
+      <UniqueIdentifier>{69cf8619-828a-4ab3-9382-4f5e96b6a1f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="deps\libyara">
+      <UniqueIdentifier>{b5ac3734-c406-4c50-aa9a-9a608824d13b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="deps\pe-sieve">
+      <UniqueIdentifier>{63cf692a-553b-42c4-802a-b919958c60be}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pesieve_scanner.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="event_queue.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ipc_client.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ipc_server.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="scanner.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="yara_scanner.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="pipe_server.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="test_eq_standalone.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="pipe_client.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="drain_thread_demo.c" />
+    <ClCompile Include="test_ipc_client.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="event_queue.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ipc_client.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ipc_server.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="yara_scanner.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="pesieve_scanner.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="scanner.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
