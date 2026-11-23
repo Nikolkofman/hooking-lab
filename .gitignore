@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opendb
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.sqlite
+*.vsidx
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.exp
+*.pch
+*.dll
+
+# Build logs
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.CppClean.log
+*.FileListAbsolute.txt
+*.lst
+
+# OS
+.DS_Store
+Thumbs.db
